@@ -1,8 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-#bannner{
+#banner{
     background: linear-gradient(rgba(0,0,0,0.5),#009688),url(images/banner.jpg);
     background-size: cover;
     background-position: center;
